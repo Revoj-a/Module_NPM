@@ -1,6 +1,6 @@
 const blue = require("./blue");
-const janet = requie("./janet");
+const janet = require("./janet");
 const sadie = require("./sadie");
 
 const cats = [blue, janet, sadie];
-console.log(cats);
+module.exports = cats;

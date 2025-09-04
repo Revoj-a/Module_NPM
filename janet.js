@@ -1,4 +1,4 @@
-mdoule.exports = {
+module.exports = {
   name: "janet",
   color: "pink",
 };
